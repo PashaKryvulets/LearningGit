@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cmath>
 
 constexpr auto pi = 3.14;
 

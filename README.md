@@ -1,2 +1,2 @@
 # LearningGit
-# I write this code on VS Code :)
+# I write this code in VS Code :)
